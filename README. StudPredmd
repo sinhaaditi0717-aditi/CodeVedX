@@ -1,0 +1,39 @@
+# Student Performance Prediction System
+
+## Project Overview
+The Student Performance Prediction System is a machine learning project that predicts student academic performance based on factors such as study hours, attendance, previous marks, and other academic details.
+
+## Objectives
+- Predict student performance using machine learning.
+- Identify factors affecting academic results.
+- Help students improve their academic performance.
+- Support teachers in monitoring student progress.
+
+## Technologies Used
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+## Features
+- Student data analysis
+- Data preprocessing
+- Model training and testing
+- Performance prediction
+- Prediction results and visualization
+
+## Algorithm
+The system can use Linear Regression or another suitable machine learning algorithm to predict student scores.
+
+## How to Run
+1. Download or clone this repository.
+2. Install the required Python libraries.
+3. Open the project notebook or Python file.
+4. Run the code and enter the student data.
+5. View the predicted performance.
+
+## Author
+Aditi Sinha
