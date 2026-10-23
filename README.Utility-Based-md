@@ -1,0 +1,44 @@
+# Utility Usage Prediction System
+
+## Project Overview
+The Utility Usage Prediction System is a machine learning project that predicts the future consumption of utilities such as electricity, water, or gas based on previous usage data.
+
+## Objectives
+- Predict future utility consumption.
+- Analyze historical usage patterns.
+- Help users reduce utility wastage.
+- Support better resource and cost management.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Machine Learning
+
+## Features
+- Input utility usage data.
+- Analyze previous consumption.
+- Predict future usage using machine learning.
+- Display prediction results.
+- Help users understand consumption patterns.
+
+## Algorithm
+Linear Regression can be used to predict future utility usage from historical data.
+
+## Applications
+- Electricity consumption prediction.
+- Water usage forecasting.
+- Gas consumption estimation.
+- Energy management.
+
+## How to Run
+1. Clone or download this repository.
+2. Install the required Python libraries.
+3. Run the Python program or Jupyter Notebook.
+4. Enter the required utility usage data.
+5. View the predicted consumption.
+
+## Author
+Aditi Sinha
